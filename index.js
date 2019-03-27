@@ -1,6 +1,6 @@
-var Dog = require("./Dog");
-var Cat = require("./Cat");
-var Mouse = require("./Mouse")
+import Dog from "./Dog";
+import Cat from "./Cat";
+import Mouse from "./Mouse";
 
 var dog =  new Dog("Tommy");
 var cat = new Cat("Tom", "male");
