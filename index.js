@@ -8,3 +8,4 @@ var mouse = new Mouse("Jerry", "female");
 
 dog.bark();
 cat.eat(mouse);
+dog.eat(cat);
