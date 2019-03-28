@@ -10,3 +10,4 @@ var evan = new Cat("Evan", "male")
 dog.bark();
 cat.eat(mouse);
 dog.eat(cat);
+dog.eat(evan);
